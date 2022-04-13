@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ronivon 👋
 
-- 🌱 Estudando React
-- 🔭 Trabalhando com front-end
+- 🌱 Estudando React, Svelte e Spring Boot
+- 🔭 Trabalhando com fullStack
 
 <div>
   <a href="https://github.com/RonivonMatos">
