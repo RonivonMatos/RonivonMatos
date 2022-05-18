@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ronivon 👋
 
+- 🔭 Trabalhando com Desenvolvimento Web
 - 🌱 Estudando React, Svelte e Spring Boot
-- 🔭 Trabalhando com fullStack
 
 <div>
   <a href="https://github.com/RonivonMatos">
